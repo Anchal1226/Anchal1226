@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on app development projects.
 - 🤔 I’m looking for help with app development backend.
 - 💬 Ask me about Python or UI/UX.
-- 📫 How to reach me: LinkedIn or Instagram
+- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/anchal-porwal/ 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love to travel...!!!
 
